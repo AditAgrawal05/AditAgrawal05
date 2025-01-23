@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ios development**
 
-- 💬 Ask me about **Data structures and algorithms**
+- 💬 Ask me about **Data structures and algorithms, Java, Python, c++, Frontend**
 
 - 📫 How to reach me **aditagrawal66@gmail.com**
 
